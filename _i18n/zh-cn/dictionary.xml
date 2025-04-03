@@ -2681,7 +2681,6 @@ RKE 2 (v1.24.x)与R9cher 2.7</block>
   <block id="7c90d436f62a080a98e02874957865e0" category="inline-link-macro">这些过程</block>
   <block id="41bdd90cead20f2dddf0647e2f48fc13" category="list-text">*使用Cloud Volumes ONTAP 后端在公有 云中安装*：使用 <block ref="cdbba4f6294205e74dc04d0ee99d1d1f" category="inline-link-macro-rx"></block> 在带有Cloud Volumes ONTAP 存储后端的Amazon Web Services (AWS)、Google云平台(GCP)或Microsoft Azure中安装Astra控制中心。</block>
   <block id="201e09e85ad81db8a19ef9f20c05d1a5" category="inline-link">此视频</block>
-  <block id="259f3be9b6c8eefb44e844c2b70333dc" category="paragraph">有关Astra控制中心安装过程的演示、请参见<block ref="cbbdec23221803dc148346abe5a297c0" category="inline-link-rx"></block>。</block>
   <block id="44e141a783b8346b1ee5c52bcf894d19" category="list-text"><block ref="689b20f2e0a9cb0a12bc48475b3f81ee" category="inline-link-macro-rx"></block>。</block>
   <block id="e13d4a668fc56237f39878bf668e8d7b" category="inline-link-macro">了解POD安全策略限制</block>
   <block id="80ba5d209a6c02eb82d0a6e75e4355ff" category="list-text">如果您已在环境中配置或希望配置POD安全策略、请熟悉POD安全策略及其对Astra Control Center安装的影响。请参见 <block ref="2a481a17dd103cf67632448be5755ab1" category="inline-link-macro-rx"></block>。</block>
@@ -2959,4 +2958,5 @@ CRD是集群范围的对象、安装它们可能会影响集群的其他部分�
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
   <block id="caaa72507433239b8d4d80991bbbbf7a" category="sidebar">Astra Control Center 23.04文档</block>
+  <block id="285c7fb54a928cf8e9ca78a83740ce60" category="paragraph">有关Asta Control Center安装过程的演示，请参见<block ref="d97427b76746d487a682c110ed41c817" category="inline-link-rx"></block>。</block>
 </blocks>
